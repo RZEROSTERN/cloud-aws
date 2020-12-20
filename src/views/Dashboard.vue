@@ -3,6 +3,11 @@
         <Sidebar />
         <div class="c-wrapper c-fixed-components">
             <Header />
+            <div class="c-body">
+                <main class="c-main">
+
+                </main>
+            </div>
         </div>
     </div>
 </template>

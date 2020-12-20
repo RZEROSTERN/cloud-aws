@@ -54,7 +54,6 @@ import 'firebase/auth'
 export default {
     data() {
         return {
-            test: process.env.VUE_APP_TEST,
             email: '',
             password: ''
         }
